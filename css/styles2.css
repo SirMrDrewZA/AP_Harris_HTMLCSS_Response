@@ -1067,6 +1067,19 @@
 
 }
 
+.starttour, .footer1v1, .footer2v1, .footer1, .footer2, .footer111, .footer {
+  transition: all 0.3s ease-in;
+  
+} 
+
+.starttour:hover, .footer1v1:hover, .footer2v1:hover, .footer1:hover, .footer2:hover, .footer111:hover, .footer:hover {
+   -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      text-shadow: 1px 0px 20px white;
+} 
+
+
 
 
 
